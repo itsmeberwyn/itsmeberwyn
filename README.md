@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Berwyn</h1>
 <h3 align="center">A passionate fullstack developer from Philippines</h3>
 
-- 🌱 I’m currently learning **Flutter** - 👨‍💻 All of my projects are available at
-[itsmeberwyn](itsmeberwyn) - 📝 I write articles on [medium](medium) - 📄 Know
+- 👨‍💻 All of my projects are available at
+[itsmeberwyn](itsmeberwyn) 
+- 📝 I write articles on [medium](medium) - 📄 Know
 about my experiences [itsmeberwyn](itsmeberwyn)
+
 <p>
   <img
     align="center"
