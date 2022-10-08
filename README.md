@@ -3,8 +3,8 @@
 
 - 👨‍💻 All of my projects are available at
 [itsmeberwyn](itsmeberwyn) 
-- 📝 I write articles on [medium](medium) - 📄 Know
-about my experiences [itsmeberwyn](itsmeberwyn)
+- 📝 I write articles on [medium](medium) 
+- 📄 Know about my experiences [itsmeberwyn](itsmeberwyn)
 
 <p>
   <img
