@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Berwyn</h1>
 <h3 align="center">A passionate fullstack developer from Philippines</h3>
 
