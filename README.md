@@ -9,8 +9,8 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=luci-000&show_icons=true&locale=en&layout=compact"
-    alt="luci-000"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeberwyn&show_icons=true&locale=en&layout=compact"
+    alt="itsmeberwyn"
   />
 </p>
 
