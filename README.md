@@ -7,7 +7,7 @@ Web and Mobile Developer
 A full-stack developer student. Passionate about using technology to build innovative and user-friendly applications, and I am always looking for ways to improve my skills and stay up-to-date with the latest developments in the field.
 
 *   🌍  I'm based in Philippines
-*   🖥️  See my portfolio at [Itsmeberwyn](http://itsmeberwyn.vercel.app/)
+*   🖥️  See my portfolio at [Itsmeberwyn]([http://itsmeberwyn.vercel.app/](https://www.itsmeberwyn.tech/))
 *   ✉️  You can contact me at [bherfelismenia@gmail.com](mailto:bherfelismenia@gmail.com)
 *   🚀  I'm currently working on [Sagana](http://#)
 *   🧠  I'm learning Wordpress and Wix### Skills 
