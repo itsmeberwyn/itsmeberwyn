@@ -10,7 +10,9 @@ A full-stack developer student. Passionate about using technology to build innov
 *   🖥️  See my portfolio at [Itsmeberwyn](https://www.itsmeberwyn.tech/)
 *   ✉️  You can contact me at [bherfelismenia@gmail.com](mailto:bherfelismenia@gmail.com)
 *   🚀  I'm currently working on [Sagana](http://#)
-*   🧠  I'm learning Wordpress and Wix### Skills 
+*   🧠  I'm learning Wordpress and Wix
+   
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
