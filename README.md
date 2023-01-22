@@ -10,7 +10,7 @@ A full-stack developer student. Passionate about using technology to build innov
 *   🖥️  See my portfolio at [Itsmeberwyn](https://www.itsmeberwyn.tech/)
 *   ✉️  You can contact me at [bherfelismenia@gmail.com](mailto:bherfelismenia@gmail.com)
 *   🚀  I'm currently working on [Sagana](http://#)
-*   🧠  I'm learning Wordpress and Wix
+*   🧠  I'm learning Flutter and Spring Boot
    
 ### Skills 
 <p align="left">
