@@ -6,7 +6,7 @@ A full-stack developer student. Passionate about using technology to build innov
 *   🌍  I'm based in Philippines
 *   🖥️  See my portfolio at [Itsmeberwyn](https://www.itsmeberwyn.tech/)
 *   ✉️  You can contact me at [dev.berwynfelismenia@gmail.com](mailto:dev.berwynfelismenia@gmail.com)
-*   🚀  I'm currently working at [Skydev](http://#) as a Software Engineer
+*   🚀  I'm currently working at [Career TEAM](http://#) as a Software Engineer
 
  ### Socials
 
