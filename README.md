@@ -1,7 +1,7 @@
 Software Engineer
 ------------------------
 
-A full-stack developer student. Passionate about using technology to build innovative and user-friendly applications, and I am always looking for ways to improve my skills and stay up-to-date with the latest developments in the field.
+A Software Engineer driven by curiosity and creativity, passionate about crafting innovative, user-friendly applications while continuously sharpening my skills and staying ahead in the ever-evolving world of technology.
 
 *   🌍  I'm based in Philippines
 *   🖥️  See my portfolio at [Itsmeberwyn](https://www.itsmeberwyn.tech/)
