@@ -1,4 +1,4 @@
-Web and Mobile Developer
+Software Engineer
 ------------------------
 
 A full-stack developer student. Passionate about using technology to build innovative and user-friendly applications, and I am always looking for ways to improve my skills and stay up-to-date with the latest developments in the field.
