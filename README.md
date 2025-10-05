@@ -1,6 +1,3 @@
-Software Engineer
-------------------------
-
 A Software Engineer driven by curiosity and creativity, passionate about crafting innovative, user-friendly applications while continuously sharpening my skills and staying ahead in the ever-evolving world of technology.
 
 *   🌍  I'm based in Philippines
